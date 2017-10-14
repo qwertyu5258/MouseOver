@@ -4,5 +4,5 @@
 소스1:
 https://codepen.io/littlesnippets/pen/LGpgGJ
 
-./image.jpg
-(./image.jpg)
+./image.png
+(./image.png)
